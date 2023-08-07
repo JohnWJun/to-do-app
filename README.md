@@ -11,7 +11,7 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 
 ## Contributors
 
--Be-전우현
+-Be_전우현
 
 ## Project Wiki
 
